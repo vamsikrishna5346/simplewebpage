@@ -1,0 +1,32 @@
+body{
+    background-color:blueviolet;
+    border: 2px solid black;
+}
+section{
+    background:linear-gradient(blueviolet,orange);
+    color: aliceblue;
+    padding: 5px;
+    border: 2px solid black;
+}
+.paragraph-1{
+    background-color: black;
+    color: white;
+}
+.para-2 h1{
+    color: black;
+}
+header{
+    background-color:rgb(22, 21, 21);
+    color:white;
+    padding:"10%";
+    border: 2px solid black;
+}
+.para-3 h1{
+    color: black;
+}
+.para-4 h1{
+    color: black;
+}
+.p{
+    columns: 3;
+}
